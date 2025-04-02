@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "description": "Fluffy pancakes with syrup, butter, and fresh fruits, served warm for a delightful morning treat.",
+    "image": "https://placehold.co/600x400/orange/white?text=Pancakes",
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "name": "Omelette",
+    "category": "Breakfast",
+    "description": "Delicious omelette with veggies, cheese, and herbs, providing a protein-packed start to your day.",
+    "image": "https://placehold.co/600x400/orange/white?text=Omelette",
+    "price": 7.49
+  },
+  {
+    "id": 3,
+    "name": "French Toast",
+    "category": "Breakfast",
+    "description": "Golden brown French toast with syrup, powdered sugar, cinnamon, and a side of fresh berries.",
+    "image": "https://placehold.co/600x400/orange/white?text=French+Toast",
+    "price": 9.99
+  },
+  {
+    "id": 4,
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "description": "Toasted bread with mashed avocado, cherry tomatoes, feta cheese, and sprinkled with chili flakes and lemon.",
+    "image": "https://placehold.co/600x400/orange/white?text=Avocado+Toast",
+    "price": 10.49
+  },
+  {
+    "id": 5,
+    "name": "Smoothie Bowl",
+    "category": "Breakfast",
+    "description": "A healthy smoothie bowl with banana, granola, nuts, berries, chia seeds, and coconut flakes topping.",
+    "image": "https://placehold.co/600x400/orange/white?text=Smoothie+Bowl",
+    "price": 12.99
+  },
+  {
+    "id": 6,
+    "name": "Grilled Chicken Salad",
+    "category": "Lunch",
+    "description": "Fresh lettuce, grilled chicken, tomatoes, cucumbers, olives, cheese, and a light balsamic dressing drizzle.",
+    "image": "https://placehold.co/600x400/orange/white?text=Grilled+Chicken+Salad",
+    "price": 14.99
+  },
+  {
+    "id": 7,
+    "name": "Club Sandwich",
+    "category": "Lunch",
+    "description": "Triple-layered sandwich with turkey, bacon, lettuce, tomato, cheese, mayo, served with crispy potato chips.",
+    "image": "https://placehold.co/600x400/orange/white?text=Club+Sandwich",
+    "price": 11.99
+  },
+  {
+    "id": 8,
+    "name": "Pasta Alfredo",
+    "category": "Lunch",
+    "description": "Creamy Alfredo pasta with parmesan cheese, garlic, butter, and tender grilled chicken pieces added.",
+    "image": "https://placehold.co/600x400/orange/white?text=Pasta+Alfredo",
+    "price": 13.49
+  },
+  {
+    "id": 9,
+    "name": "Sushi Platter",
+    "category": "Lunch",
+    "description": "An assortment of sushi rolls, sashimi, soy sauce, pickled ginger, and wasabi for dipping.",
+    "image": "https://placehold.co/600x400/orange/white?text=Sushi+Platter",
+    "price": 18.99
+  },
+  {
+    "id": 10,
+    "name": "Cheeseburger",
+    "category": "Lunch",
+    "description": "Juicy cheeseburger with lettuce, tomato, pickles, cheddar cheese, onion rings, and a side of fries.",
+    "image": "https://placehold.co/600x400/orange/white?text=Cheeseburger",
+    "price": 10.99
+  },
+  {
+    "id": 11,
+    "name": "Strawberry Shake",
+    "category": "Shakes",
+    "description": "Creamy strawberry milkshake made with fresh strawberries, ice cream, whipped cream, and a cherry topping.",
+    "image": "https://placehold.co/600x400/orange/white?text=Strawberry+Shake",
+    "price": 6.49
+  },
+  {
+    "id": 12,
+    "name": "Chocolate Shake",
+    "category": "Shakes",
+    "description": "Rich chocolate milkshake with chocolate syrup, cocoa powder, ice cream, and topped with whipped cream.",
+    "image": "https://placehold.co/600x400/orange/white?text=Chocolate+Shake",
+    "price": 6.99
+  },
+  {
+    "id": 13,
+    "name": "Banana Smoothie",
+    "category": "Shakes",
+    "description": "A nutritious banana smoothie with yogurt, honey, cinnamon, vanilla, and blended to smooth perfection.",
+    "image": "https://placehold.co/600x400/orange/white?text=Banana+Smoothie",
+    "price": 7.49
+  },
+  {
+    "id": 14,
+    "name": "Vanilla Shake",
+    "category": "Shakes",
+    "description": "Classic vanilla milkshake with vanilla bean ice cream, whole milk, sugar, and whipped cream topping.",
+    "image": "https://placehold.co/600x400/orange/white?text=Vanilla+Shake",
+    "price": 6.79
+  },
+  {
+    "id": 15,
+    "name": "Oreo Shake",
+    "category": "Shakes",
+    "description": "Delicious Oreo milkshake blended with cookies, ice cream, milk, and drizzled with chocolate syrup.",
+    "image": "https://placehold.co/600x400/orange/white?text=Oreo+Shake",
+    "price": 7.99
+  },
+  {
+    "id": 16,
+    "name": "Egg Benedict",
+    "category": "Breakfast",
+    "description": "Poached eggs on an English muffin with hollandaise sauce, ham, and a parsley garnish.",
+    "image": "https://placehold.co/600x400/orange/white?text=Egg+Benedict",
+    "price": 11.49
+  },
+  {
+    "id": 17,
+    "name": "Caesar Salad",
+    "category": "Lunch",
+    "description": "Crisp romaine lettuce with Caesar dressing, croutons, parmesan cheese, grilled chicken, and fresh lemon zest.",
+    "image": "https://placehold.co/600x400/orange/white?text=Caesar+Salad",
+    "price": 12.99
+  },
+  {
+    "id": 18,
+    "name": "Tacos",
+    "category": "Lunch",
+    "description": "Soft corn tortillas filled with seasoned beef, shredded lettuce, cheese, salsa, and sour cream.",
+    "image": "https://placehold.co/600x400/orange/white?text=Tacos",
+    "price": 9.49
+  },
+  {
+    "id": 19,
+    "name": "Mango Lassi",
+    "category": "Shakes",
+    "description": "Refreshing mango yogurt drink blended with sugar, cardamom, ice cubes, and a mint garnish.",
+    "image": "https://placehold.co/600x400/orange/white?text=Mango+Lassi",
+    "price": 7.99
+  },
+  {
+    "id": 20,
+    "name": "Blueberry Shake",
+    "category": "Shakes",
+    "description": "Fresh blueberry shake blended with milk, honey, vanilla extract, and topped with whipped cream.",
+    "image": "https://placehold.co/600x400/orange/white?text=Blueberry+Shake",
+    "price": 7.49
+  }
+]
