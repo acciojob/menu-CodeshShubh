@@ -70,10 +70,10 @@ const App = () => {
             <hr/>
          </div>
          <div className='filterbtns'>
-              <p onClick={()=>dispatch({type:'All'})} >All</p>
-              <p onClick={()=>dispatch({type:'Breakfast'})}>Breakfast</p>
-              <p onClick={()=>dispatch({type:'Lunch'})}>Lunch</p>
-              <p onClick={()=>dispatch({type:'Shakes'})}>Shakes</p>
+              <p onClick={()=>dispatch({type:'All'})} id="main" >All</p>
+              <p onClick={()=>dispatch({type:'Breakfast'})} id="filter-btn-1" >Breakfast</p>
+              <p onClick={()=>dispatch({type:'Lunch'})} id="filter-btn-2" >Lunch</p>
+              <p onClick={()=>dispatch({type:'Shakes'})} id="filter-btn-3" >Shakes</p>
          </div>
          <Menu foods={state.filterFoods} loading={loading}/>
     </div>
